@@ -57,14 +57,9 @@ java BlackJack
 - Aces are dynamically calculated: if you have two Aces, one is treated as 11 and the other as 1 to avoid busting.
 - Reset button clears the board and starts a new round with a reshuffled deck.
 
-## 📸 Preview
-
-<!-- Optional: Add a screenshot of the game window here -->
-<!-- ![Blackjack Game Screenshot](your_screenshot_here.png) -->
-
 ## 👨‍💻 Author
 
-Created by [Your Name] — Built for fun, learning, and practicing GUI-based game development in Java.
+Created by Royce Mathis — Built for fun, learning, and practicing GUI-based game development in Java.
 
 ## 📜 License
 
